@@ -10,5 +10,7 @@ public class MathUtilLive {
         System.out.println("expected: 0! = 1; actual: " + MathUtil.getFactorial(0));
         System.out.println("expected: 3! = 6; actual: " + MathUtil.getFactorial(3));
 
+        System.out.println("Fixed the code after commited");
+
     }
 }
