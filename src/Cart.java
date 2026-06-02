@@ -1,5 +1,5 @@
 public class Cart {
     public void print() {
-        System.out.println("Cart is printed");
+        System.out.println("Cart is updated");
     }
 }
